@@ -3,4 +3,4 @@
 
 My page is currently under construction! 🚧<br/>
 
-Thank you for visiting!</br>
+Thank you for visiting!<br/>
